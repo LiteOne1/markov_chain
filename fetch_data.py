@@ -40,7 +40,6 @@ def add_lyrics():
                
 add_lyrics()
 
-open_txt = open('lyrics.txt', 'r')
-print open_txt.read() #see the result
+
 
 
